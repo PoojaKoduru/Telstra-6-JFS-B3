@@ -1,3 +1,2 @@
-Hello
-This is a demo file
-To check pull and push of git
+Hi
+This is modified to check merge functionality of other branches with main/master
